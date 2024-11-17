@@ -1,0 +1,13 @@
+{
+    "Club Atlético Boca Juniors - Octane": {
+		"BodyID": 23,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "chassis.png"
+		},
+		"Body": {
+			"Diffuse": "diffuse.png",
+			"Skin": "mask.png"
+		}
+    }
+}
